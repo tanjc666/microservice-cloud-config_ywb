@@ -69,5 +69,5 @@ eureka:
     prefer-ip-address: true 
     
 emp:
-  name: 
+  name: libo
 ---
